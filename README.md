@@ -27,6 +27,8 @@ and <a href="javacript.com">JS</a> dev but also work with python, c++, solidity,
 </p>
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranaco&layout=compact)
+---
 
 ### <div align = "center">Frameworks</div>
 <div align = "center">
@@ -81,8 +83,6 @@ ___
 
 ![Ranaco's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ranaco&custom_title=Rana's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranaco&layout=compact)
 
 <br>
 
