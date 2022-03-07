@@ -8,7 +8,7 @@ I am a primarily a
 <a  href="https://flutter.dev"> Flutter</a> 
 and <a href="javacript.com">JS</a> dev but also work with python, c++, solidity, 
 
----Upd
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranaco&layout=compact)
 
