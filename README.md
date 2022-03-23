@@ -2,8 +2,7 @@
   <b>Ranaco</b>
 </h1>
 
-> Hy! I'm Rana Satyam Raj. I am a class 12th student preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>.
+> Hy! I'm Rana Satyam Raj.
 I am a primarily a 
 <a  href="https://flutter.dev"> Flutter</a> 
 and <a href="javacript.com">JS</a> dev but also work with python, c++, solidity, 
