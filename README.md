@@ -60,7 +60,7 @@ class Ranaco{
     {String name = "Rana Satyam Raj",
     String username = "Ranaco",
     String location = "Bihar, India",
-    String instagram = "@Myself_rana.raj"})
+    String instagram = "@AsTaR_aNjE"})
 
 @override
 toString(){
