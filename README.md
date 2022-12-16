@@ -5,7 +5,7 @@
 > Hy! I'm Rana Satyam Raj.
 I am a primarily a 
 <a  href="https://flutter.dev"> Flutter</a> 
-and <a href="javacript.com">JS</a> dev but also work with python, c++, solidity, 
+and <a href="javacript.com">Typescript</a> dev but also work with python, c++, solidity, 
 
 ---
 
@@ -55,10 +55,15 @@ and <a href="javacript.com">JS</a> dev but also work with python, c++, solidity,
 
 ```dart
 class Ranaco{ 
+
+String name = "";
+String userName = "";
+String location = "";
+String instagram = "";
     
  Ranaco(
     {String name = "Rana Satyam Raj",
-    String username = "Ranaco",
+    String userName = "Ranaco",
     String location = "Bihar, India",
     String instagram = "@AsTaR_aNjE"})
 
