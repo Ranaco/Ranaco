@@ -62,10 +62,10 @@ String location = "";
 String instagram = "";
     
  Ranaco(
-    {String name = "Rana Satyam Raj",
-    String userName = "Ranaco",
-    String location = "Bihar, India",
-    String instagram = "@AsTaR_aNjE"})
+    {this.name = "Rana Satyam Raj",
+    this.userName = "Ranaco",
+    this.location = "Bihar, India",
+    this.instagram = "@AsTaR_aNjE"})
 
 @override
 toString(){
