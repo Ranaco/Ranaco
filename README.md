@@ -3,9 +3,8 @@
 </h1>
 
 > Hy! I'm Rana Satyam Raj.
-I am a primarily a 
-<a  href="https://flutter.dev"> Flutter</a> 
-and <a href="javacript.com">Typescript</a> dev but also work with python, c++, solidity, 
+I am primarily a 
+<a  href="https://flutter.dev"> Flutter</a>, <a href="javacript.com">Typescript</a> and AOSP dev but also work with python, c++, solidity, 
 
 ---
 
