@@ -4,7 +4,7 @@
 
 > Hy! I'm Rana Satyam Raj.
 I am primarily a 
-<a  href="https://flutter.dev"> Flutter</a>, <a href="javacript.com">Typescript</a> and AOSP dev but also work with python, c++, solidity, 
+<a  href="https://flutter.dev" target="_"> Flutter</a>, <a href="javacript.com" target="_">Typescript</a> and <a href="https://source.android.com/" target="_">AOSP</a> dev but also work with python, c++, solidity, 
 
 ---
 
