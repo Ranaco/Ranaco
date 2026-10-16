@@ -17,7 +17,7 @@ By night I build small, quiet software, mostly for things I own. Each of these s
 
 | | | |
 |:--|:--|--:|
-| [**zInk**](https://github.com/Ranaco/zink) | A calm, e-ink-style home for the Motorola Razr's cover screen. Closed beta on Play · [zink.ranax.co](https://zink.ranax.co) | <sub>Kotlin</sub> |
+| [**zInk**](https://zink.ranax.co) | A calm, e-ink-style home for the Motorola Razr's cover screen. Source private while it's in [closed beta](https://play.google.com/apps/testing/com.ranaco.zink) on Play. | <sub>Kotlin</sub> |
 | [**exCover**](https://github.com/Ranaco/exCover) | Animated GIF wallpapers for the Razr's cover home and lock screens. No root. | <sub>Java</sub> |
 | [**Wheel**](https://github.com/Ranaco/wheel) | Your phone as a steering wheel and pedals for PC racing games; the PC sees an Xbox 360 controller. | <sub>Kotlin · Python</sub> |
 | [**Hermit**](https://github.com/Ranaco/hermit) | A key-management system with versioned secrets and audit logging. On npm as @hermit-kms/cli. | <sub>TypeScript</sub> |
