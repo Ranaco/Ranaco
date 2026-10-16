@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Rana Satyam Raj — software engineer, founding team at CodeDecoders" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg">
+  <img alt="Rana Satyam Raj — software engineer, founding team at CodeDecoders" src="assets/name-light.svg" width="100%">
 </picture>
 
 <br>
